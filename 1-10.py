@@ -8,4 +8,3 @@ print("naver", "kakao", "sk", sep=';')
 print("naver", "kakao", "sk", sep='/')
 print("first", end="");print("second")
 print(5/3)
-wait moment!
