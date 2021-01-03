@@ -1,4 +1,10 @@
-it is my first time
-it is my second time
-print(hello world!) 
-two
+print ("hello world")
+print ("Mary's cosmetics")
+print('신씨가 소리를 질렀다. "도둑이야."')
+print('C:\\window')
+print("안녕하세요./n만나서/t/t반갑습니다.")
+print("오늘은", "일요일")
+print("naver", "kakao", "sk", sep=';')
+print("naver", "kakao", "sk", sep='/')
+print("first", end="");print("second")
+print(5/3)
