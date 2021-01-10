@@ -40,3 +40,4 @@ print(int(air) * 36)
 
 air = 48584
 print(air * 36)
+That's all 
